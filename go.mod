@@ -11,5 +11,6 @@ require (
 
 replace (
 	github.com/spark8899/go-tour/cmd => ./cmd
+	github.com/spark8899/go-tour/internal/timer => ./internal/timer
 	github.com/spark8899/go-tour/internal/word => ./internal/word
 )
